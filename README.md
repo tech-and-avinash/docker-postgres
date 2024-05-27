@@ -85,3 +85,5 @@ docker-compose logs db
 
 This project is licensed under the MIT License.
 ```
+
+This `README.md` file provides detailed instructions on how to set up and use the PostgreSQL Docker container, including prerequisites, starting and stopping the container, accessing the database, and troubleshooting.
